@@ -20,8 +20,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ My Life Motto
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FE428E&background=141321&width=850&height=70&lines=One+must+acknowledge+the+differences+in+innate+talent.;Since+I+was+not+born+a+genius%2C+if+others+study+for+an+hour%2C+I+must+study+for+two+just+to+keep+up.)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
