@@ -9,16 +9,16 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChienTM04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChienTM04&theme=dark&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranminhchien0402&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tranminhchien0402&theme=dark&hide_border=false" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChienTM04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranminhchien0402&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChienTM04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tranminhchien0402&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ My Life Motto
 > 💡 **"One must acknowledge the differences in innate talent. Since I was not born a genius, if others study for an hour, I must study for two just to keep up."**
@@ -26,9 +26,9 @@
 > *(Con người phải thừa nhận sự khác biệt về tố chất bẩm sinh. Con vốn không có tư chất cao, người khác học một tiếng thì con phải học hai tiếng mới theo kịp.)*
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChienTM04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=tranminhchien0402&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ChienTM04&icon=0&color=0" alt="Views" />
+  <img src="https://visitcount.itsvg.in/api?id=tranminhchien0402&icon=0&color=0" alt="Views" />
 </p>
